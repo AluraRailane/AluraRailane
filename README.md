@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @AluraRailane
 - 👍  Meu email de contato é railane.neves@escola.pr.gov.br 
 - 🥇 Tenho interesse em aprender e a compartilhar projetos
-- 🌱 I’m currently learning ...
 - 📫 Moro na cidade de Ipiranga
 
 <!---
