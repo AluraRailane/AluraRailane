@@ -1,7 +1,8 @@
 - # Sobre mim.
 - ## Editando perfil.
 - 👋 Hi, I’m @AluraRailane
-- 👍  Meu email de contato railane.neves@escola.pr.gov.br 
+- 👍  Meu email de contato é railane.neves@escola.pr.gov.br 
+- 🥇 Tenho interesse em aprender e a compartilhar projetos
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
