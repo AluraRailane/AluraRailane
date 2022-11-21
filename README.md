@@ -1,11 +1,9 @@
-- # Sobre mim.
+- # Sobre mim
 - ## Editando perfil.
-- 👋 Hi, I’m @AluraRailane
-- 👍  Meu email de contato é railane.neves@escola.pr.gov.br 
+- 👋 Hi, I’m **@AluraRailane**
+- 👍 Meu email de contato é railane.neves@escola.pr.gov.br 
 - 🥇 Tenho interesse em aprender e a compartilhar projetos
-- 📫 Moro na cidade de Ipiranga
-
-<!---
-AluraRailane/AluraRailane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Moro na cidade de Ipiranga.
+- 🇧🇷 Sou Brasileira!
+- 🇨🇦 Sonho em conhecer o Canadá e outro países.
+- 🖌️ Meu hobby é desenhar
